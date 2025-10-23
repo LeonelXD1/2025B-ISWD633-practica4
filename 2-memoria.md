@@ -28,3 +28,4 @@ docker run -d --name server-nginx --memory=300m --memory-swap=1g nginx:alpine
 **¿Cuántos megabytes de memoria swap puede utilizar el contenedor creado anteriormente?**
 
 Memoria swap máxima = 1024m − 300 = 724m
+El contenedor puede usar 724 MB de memoria swap.
