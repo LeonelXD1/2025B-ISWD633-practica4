@@ -75,14 +75,14 @@ Docker usa un mecanismo de caché cuando crea imágenes para acelerar el proceso
 
 ### Crear un contenedor a partir de las imagen creada, mapear todos los puertos
 ```
-
+docker run --name leoimg -d -P leos:1.1
 ```
 
 ### ¿Con que puerto host se está realizando el mapeo?
-# COMPLETAR CON LA RESPUESTA
+Con el puerto 32768
 
 **¿Qué es una imagen huérfana?**
-# COMPLETAR CON LA RESPUESTA
+Una imagen huérfana es una imagen que se encuentra almacenada en un contenedor, pero que ya no tiene ninguna referencia activa que la use
 
 ### Identificar imágenes huérfanas
 ```
