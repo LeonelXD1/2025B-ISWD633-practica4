@@ -1,3 +1,4 @@
-# COMPLETAR  
-Comparando sus conocimientos antes de hacer la práctica con sus conocimientos después de hacer la tarea, explicar los principales aprendizajes logrados para beneficio de su formación profesional.  
-Si solucionó un problema presentado al realizar la práctica también se debe documentar.
+Ahora sé como crear mis propias imagenes con sus respectivas configuraciones, mediante dockerfile
+
+También aprendí a limitar los recursos, ya que no se puede dar toda la capacidad del hardware a varios contenedores, el hecho de limitar la memoria o los nucleos uno mismo, se hace mas dinámica la generación de los contenedores y sus configuraciones.
+
